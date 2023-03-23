@@ -1,0 +1,16 @@
+:root {
+    --gray: #131819;
+    --electric: #6f00ff;
+    --electric-clear: #a35cff;
+    --electric1: #4d00b3;
+  }
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Poppins, sans-serif;
+    text-decoration: none;
+    -webkit-font-smoothing:antialiased;
+    background: var(--gray);
+}
